@@ -90,31 +90,31 @@
 ---
 ### TOP VIETOS (PAGAL GOOGLE)
 
-*   Buda Castle / Budavári Palota
-*   Castle District / Várnegyed
-*   Fisherman's Bastion / Halászbástya
-*   Hungarian Parliament Building / Országház
-*   Gellért Hill & Citadella
-*   St. Stephen's Basilica / Szent István-bazilika
-*   Danube Promenade / Dunakorzó
-*   Chain Bridge / Széchenyi Lánchíd
-*   Shoes on the Danube Bank
-*   Szimpla Kert
-*   Mazel Tov
-*   Metropolitan Ervin Szabó Library / Fővárosi Szabó Ervin Könyvtár
-*   Vajdahunyad Castle / Vajdahunyad vára
-*   Aquincum Museum and Archaeological Park
-*   House of Unicum (Zwack Museum)
-*   Hungarian National Museum / Magyar Nemzeti Múzeum
-*   Budapest History Museum / Budapesti Történeti Múzeum
-*   House of Terror Museum / Terror Háza Múzeum
-*   Memento Park
-*   Great Market Hall / Nagy Vásárcsarnok
-*   Rudas Baths / Rudas gyógyfürdő
-*   Széchenyi Thermal Baths / Széchenyi gyógyfürdő
-*   Gellért Baths / Gellért gyógyfürdő
-*   Andrássy Avenue / Andrássy út
-*   Heroes' Square / Hősök tere
-*   Margaret Island / Margit-sziget
-*   New York Café
-*   Dohány Street Synagogue / Dohány utcai zsinagóga
+*   +++ Buda Castle / Budavári Palota
+*   +++ Castle District / Várnegyed
+*   +++ Fisherman's Bastion / Halászbástya
+*   +++ Hungarian Parliament Building / Országház
+*   --- Gellért Hill & Citadella
+*   +++ St. Stephen's Basilica / Szent István-bazilika
+*   --- Danube Promenade / Dunakorzó
+*   +++ Chain Bridge / Széchenyi Lánchíd
+*   +++ Shoes on the Danube Bank
+*   +++ Szimpla Kert
+*   --- Mazel Tov
+*   --- Metropolitan Ervin Szabó Library / Fővárosi Szabó Ervin Könyvtár
+*   +++ Vajdahunyad Castle / Vajdahunyad vára
+*   --- Aquincum Museum and Archaeological Park
+*   --- House of Unicum (Zwack Museum)
+*   --- Hungarian National Museum / Magyar Nemzeti Múzeum
+*   --- Budapest History Museum / Budapesti Történeti Múzeum
+*   +++ House of Terror Museum / Terror Háza Múzeum
+*   --- Memento Park
+*   +++ Great Market Hall / Nagy Vásárcsarnok
+*   +++ Rudas Baths / Rudas gyógyfürdő
+*   +++ Széchenyi Thermal Baths / Széchenyi gyógyfürdő
+*   --- Gellért Baths / Gellért gyógyfürdő
+*   +++ Andrássy Avenue / Andrássy út
+*   +++ Heroes' Square / Hősök tere
+*   +++ Margaret Island / Margit-sziget
+*   --- New York Café
+*   --- Dohány Street Synagogue / Dohány utcai zsinagóga
