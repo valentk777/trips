@@ -14,7 +14,7 @@
 
 ### KELIONĖS PLANAS (TRAVEL PLAN)
 
-**1 d. (12-03 Trečiadienis): Atvykimas ir Žydų Kvartalo tyrinėjimas**
+**1 d. (12-03 Trečiadienis): Arrival and Jewish Quarter (Erzsébetváros) Exploration**
 
 *   **Atvykimas:** Iš oro uosto į centrą – Bolt/Uber arba autobusas 100E.
 *   **Gozsdu Udvar:** Barų ir restoranų pasažas.
@@ -23,7 +23,7 @@
 *   **Karaván (Kazinczy u. 18):** Gatvės maisto aikštelė. Puiki vieta vakarienei.
 *   **Szimpla Kert (Kazinczy u. 14):** Originalus ir garsiausias "ruin bar". Būtina pamatyti.
 
-**2 d. (12-04 Ketvirtadienis): Pirtys ir Kalėdiniai turgūs**
+**2 d. (12-04 Ketvirtadienis): Thermal Baths and Christmas Markets**
 
 *   **Terminių pirčių pasirinkimas:**
     *   **Opcija A (Klasika): Széchenyi Thermal Bath (Széchenyi Gyógyfürdő)**
@@ -34,12 +34,12 @@
         *   *Info:* Autentiškesnė pirtis su **stogo baseinu-jacuzzi**, iš kurio atsiveria vaizdas į Dunojų.
         *   *Valandos:* ~6:00 - 20:00.
         *   *Bilietai:* ~9,200 HUF (~23€). Savaitgaliais brangiau.
-*   **Miesto parkas (Városliget):** Vajdahunyad Castle, Heroes' Square (Hősök tere).
-*   **Andrássy aveniu (Andrássy út):** Pasivaikščiojimas link centro.
-*   **Šv. Stepono bazilikos Kalėdų turgus:** Vienas gražiausių Europoje. 3D šviesų šou ant bazilikos fasado.
-    *   *Bazilikos apžvalgos aikštelė:* Valandos: ~9:00 - 19:00. Bilietas ~3,200 HUF (~8€).
+*   **Miesto parkas (Városliget):** Vajdahunyad Castle (Vajdahunyad vára), Heroes' Square (Hősök tere).
+*   **Andrássy Avenue (Andrássy út):** Pasivaikščiojimas link centro.
+*   **St. Stephen's Basilica Christmas Market:** Vienas gražiausių Europoje. 3D šviesų šou ant bazilikos fasado.
+    *   *Basilica's Panorama Terrace:* Valandos: ~9:00 - 19:00. Bilietas ~3,200 HUF (~8€).
 
-**3 d. (12-05 Penktadienis): Parlamentas ir Dunojus**
+**3 d. (12-05 Penktadienis): Parliament and Danube**
 
 *   **Hungarian Parliament Building (Országház)**
     *   *Info:* Apsilankymas tik su gidu.
@@ -47,9 +47,9 @@
     *   *Bilietai:* **Būtina pirkti internetu iš anksto!** ES piliečiui ~6,500 HUF (~16€), studentui (iki 24 m.) ~3,250 HUF (~8€).
 *   **Shoes on the Danube Bank:** Memorialas.
 *   **Chain Bridge (Széchenyi Lánchíd):** Perėjimas į Budos pusę.
-*   **Naktinis kruizas Dunojaus upe:** Pamatyti apšviestą miestą. Bilietai nuo ~15€.
+*   **Night Cruise on the Danube:** Pamatyti apšviestą miestą. Bilietai nuo ~15€.
 
-**4 d. (12-06 Šeštadienis): Budos pilies kalva**
+**4 d. (12-06 Šeštadienis): Buda Castle Hill**
 
 *   **Fisherman's Bastion (Halászbástya)**
     *   *Info:* Apatinės terasos nemokamos ir atviros 24/7.
@@ -65,7 +65,7 @@
     *   *Bilietai:* ~3,500 HUF (~9€), studentams taikomos nuolaidos.
 *   **Vörösmarty Square Christmas Market:** Didžiausias ir seniausias turgus.
 
-**5 d. (12-07 Sekmadienis): Išvykimas**
+**5 d. (12-07 Sekmadienis): Departure**
 
 *   Pusryčiai vienoje iš kvartalo kavinių (pvz., **Café Cirkusz**).
 *   **~8:45:** Išvykimas į oro uostą.
@@ -80,7 +80,7 @@
 
 #### Unikalūs barai ir vaizdai (Unique Bars & Views)
 
-*   **Rudas pirtys:** Priminimas, kad šios pirtys (jau įtrauktos į planą) turi **baseiną ant stogo**, kuris puikiai tinka saulėlydžio stebėjimui su vaizdu į Dunojų.
+*   **Rudas Baths:** Priminimas, kad šios pirtys (jau įtrauktos į planą) turi **baseiną ant stogo**, kuris puikiai tinka saulėlydžio stebėjimui su vaizdu į Dunojų.
 *   **360 Bar:** A rooftop bar with a full panoramic view of the city. In winter, it has heated transparent igloos from which to enjoy the views.
 *   **Leo Rooftop:** Another rooftop bar located right next to the Chain Bridge, offering a great view of Buda Castle and the bridge.
 *   **Boutiq' Bar:** A high-end cocktail bar known for its theatrical and creative drink presentations.
