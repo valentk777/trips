@@ -307,3 +307,19 @@ A Caribbean nation known for its beaches, resorts, and golfing.
 *   **Safety:**
     *   **Rating:** Unsafe
     *   **Notes:** A high degree of caution is advised due to violent crime, including armed robbery and sexual assault. Tourists are often targets. It is important to be vigilant and avoid displaying wealth.
+
+---
+
+### 20. Senegal
+
+A West African country known for its vibrant culture, music, and national parks.
+
+*   **Flights (to Dakar):**
+    *   **Airlines:** TAP Air Portugal / Turkish Airlines / Royal Air Maroc
+    *   **Price:** ~550 - 800 EUR (Round Trip)
+    *   **Stops:** 1+ (Some cheaper flights may have more than one stop)
+    *   **Note:** Good availability of flights within the budget.
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** A high degree of caution is advised due to civil unrest and crime. Specific border regions should be avoided. It is important to be vigilant, especially in major cities.
