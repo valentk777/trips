@@ -126,7 +126,7 @@ An island nation with a rich history, diverse landscapes including rainforests, 
 A vast and incredibly diverse country offering a huge range of experiences, from the historic cities of the Golden Triangle (Delhi, Agra, Jaipur) to the beaches of Goa and the backwaters of Kerala.
 
 *   **Flights (to Delhi or Mumbai):**
-    *   **Airlines:** LOT / Finnair / Turkish Airlines
+    *   **Aylines:** LOT / Finnair / Turkish Airlines
     *   **Price:** ~500 - 800 EUR (Round Trip)
     *   **Stops:** 1
     *   **Note:** Prices depend heavily on the destination city within India.
@@ -134,3 +134,176 @@ A vast and incredibly diverse country offering a huge range of experiences, from
 *   **Safety:**
     *   **Rating:** Unsafe
     *   **Notes:** A high degree of caution is advised. Risks include crime, terrorism, and potential for civil unrest. Specific regions, particularly near the border with Pakistan and in Jammu & Kashmir, should be avoided. Female travelers should take extra precautions.
+
+---
+### Systematic Search (As Requested)
+
+Here are the results of a systematic search for countries with warm weather in January.
+
+---
+
+### 9. South Africa
+
+Known for its stunning landscapes, safaris, and vibrant cities.
+
+*   **Flights:**
+    *   I cannot find a flight within the price range to South Africa.
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** A high degree of caution is advised due to high crime rates, including violent crime. It is important to be vigilant, avoid displaying wealth, and not walk alone, especially after dark.
+
+---
+
+### 10. Australia
+
+A vast country with diverse landscapes, from deserts to coral reefs, and unique wildlife.
+
+*   **Flights:**
+    *   I cannot find a flight within the price range to Australia.
+*   **Safety:**
+    *   **Rating:** Safe
+    *   **Notes:** Generally a very safe country. The main risks are related to the natural environment (sun, wildlife, and natural disasters). Standard precautions against petty crime in cities are advised.
+
+---
+
+### 11. Costa Rica
+
+Famous for its lush rainforests, volcanoes, and biodiversity. A great destination for eco-tourism and adventure.
+
+*   **Flights (to San Jose):**
+    *   **Airlines:** Lufthansa / Austrian Airlines / KLM
+    *   **Price:** ~700 - 950 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Prices are for January and can fluctuate.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Generally safe, but exercise increased caution. Petty crime is the main concern, especially in tourist areas. Avoid displaying wealth and be aware of your surroundings.
+
+---
+
+### 12. The Philippines
+
+An archipelago of over 7,000 islands, known for its stunning beaches, coral reefs, and vibrant culture.
+
+*   **Flights (to Manila):**
+    *   **Airlines:** Turkish Airlines / Etihad / SAS
+    *   **Price:** ~650 - 900 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** January is often the cheapest month to fly.
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** A high degree of caution is advised. There is a threat of terrorism and violent crime. Specific areas in the south (Mindanao) should be avoided entirely. Petty crime is also common.
+
+---
+
+### 13. Maldives
+
+A tropical paradise famous for its overwater bungalows, crystal-clear waters, and vibrant marine life.
+
+*   **Flights (to Malé):**
+    *   **Airlines:** Turkish Airlines / Fly Dubai / Etihad
+    *   **Price:** ~700 - 1000 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Prices can be at the higher end of the budget.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Resort islands are very safe. However, exercise caution in the capital city of Malé due to the risk of civil unrest and petty crime. There is a general threat of terrorism in the country.
+
+---
+
+### 14. Vietnam
+
+Known for its rich history, vibrant cities, stunning landscapes like Ha Long Bay, and delicious food.
+
+*   **Flights (to Ho Chi Minh City):**
+    *   **Airlines:** Turkish Airlines / Finnair / LOT
+    *   **Price:** ~600 - 900 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Prices are generally competitive for January.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Generally a safe country. The main concerns are petty crime, scams, and chaotic traffic in major cities. Be vigilant with your belongings and use reputable transport services.
+
+---
+
+### 15. Mauritius
+
+An island nation in the Indian Ocean, known for its beaches, lagoons, and reefs.
+
+*   **Flights:**
+    *   **Airlines:** Turkish Airlines / Air France / Lufthansa
+    *   **Price:** ~750 - 1000 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Prices can be at the higher end of the budget.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Generally a safe destination. The main concern is petty crime, such as pickpocketing and theft from cars or accommodations. Exercise normal precautions.
+
+---
+
+### 16. Barbados
+
+A Caribbean island known for its beautiful beaches, botanical gardens, and vibrant culture.
+
+*   **Flights:**
+    *   **Airlines:** KLM / Virgin Atlantic / jetBlue
+    *   **Price:** ~800 - 1000 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Prices can be at the higher end of the budget.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Generally a safe destination. The main concerns are petty crime and some gang-related violence. Exercise normal precautions and avoid walking alone at night in isolated areas.
+
+---
+
+### 17. Mexico (Cancun)
+
+A popular destination on the Yucatán Peninsula, famous for its beaches, nightlife, and proximity to ancient Mayan ruins.
+
+*   **Flights (to Cancun):**
+    *   **Airlines:** Lufthansa / jetBlue / LOT
+    *   **Price:** ~650 - 900 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** January is often the cheapest month to fly.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** The main tourist areas (Hotel Zone) are heavily policed and generally safe. However, exercise increased caution due to the risk of petty crime and drug-related violence in other parts of the state.
+
+---
+
+### 18. Kenya
+
+Famous for its vast wildlife reserves, including the Maasai Mara, and its diverse landscapes.
+
+*   **Flights (to Nairobi):**
+    *   **Airlines:** Lufthansa / Turkish Airlines / Wizz Air
+    *   **Price:** ~600 - 850 EUR (Round Trip)
+    *   **Stops:** 1+ (Some cheaper flights may have more than one stop)
+    *   **Note:** Good availability of flights within the budget.
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** A high degree of caution is advised due to threats of terrorism, violent crime, and civil unrest. Specific border regions should be avoided. It is important to be vigilant, especially in major cities.
+
+---
+
+### 19. Dominican Republic
+
+A Caribbean nation known for its beaches, resorts, and golfing.
+
+*   **Flights (to Punta Cana):**
+    *   **Airlines:** jetBlue / Wizz Air / Arajet
+    *   **Price:** ~700 - 950 EUR (Round Trip)
+    *   **Stops:** 1+ (Some cheaper flights may have more than one stop)
+    *   **Note:** Good availability of flights within the budget.
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** A high degree of caution is advised due to violent crime, including armed robbery and sexual assault. Tourists are often targets. It is important to be vigilant and avoid displaying wealth.
