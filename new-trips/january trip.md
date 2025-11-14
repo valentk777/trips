@@ -513,11 +513,42 @@ The following destinations are known for being particularly hot (often exceeding
 
 A hyper-modern and clean city-state known for its incredible food scene (from hawker centers to Michelin-starred restaurants), stunning architecture, and vibrant mix of cultures. It's a great stop for a few days of city exploration.
 
+*   **Flights:**
+    *   **Airlines:** Turkish Airlines / Finnair / Lufthansa
+    *   **Price:** ~650 - 800 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Prices can vary. Common stopovers are Istanbul, Helsinki, and Frankfurt.
+
+*   **Safety:**
+    *   **Rating:** Very Safe
+    *   **Notes:** Considered one of the safest countries in the world with a very low crime rate. Be aware of strict local laws (e.g., no chewing gum, jaywalking fines).
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 23-31°C (73-88°F). Hot and very humid.
+    *   **Rainfall:** This is the monsoon season. Expect frequent afternoon thunderstorms and high humidity, though February is drier than January.
+    *   **Sea Swimming:** Excellent. The sea is very warm at around 28°C (82°F).
+
 ---
 
 ### 25. Brazil
 
 A vast country with a vibrant culture, iconic landscapes from the Amazon rainforest to Iguazu Falls, and world-famous beaches. January and February are the peak of the Brazilian summer, offering hot and lively carnival season energy.
+
+*   **Flights (to Rio de Janeiro or São Paulo):**
+    *   **Airlines:** Turkish Airlines / Wizz Air + GOL
+    *   **Price:** ~750 - 1000+ EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Flights can be expensive. Prices are for major hubs like Rio (GIG) or São Paulo (GRU).
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** A high degree of caution is required due to high crime rates in major cities. Avoid displaying wealth, walking alone at night, and visiting favelas.
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 23-35°C (73-95°F). Hot and humid summer weather.
+    *   **Rainfall:** This is the summer rainy season for most of the country. Expect frequent and heavy afternoon downpours.
+    *   **Sea Swimming:** Excellent. The sea is very warm (25-28°C / 77-82°F).
+    *   **Note:** While it is very hot, it does not meet the "no rainy season" criteria. The northeast coast may be slightly drier than the south.
 
 ---
 
@@ -525,11 +556,42 @@ A vast country with a vibrant culture, iconic landscapes from the Amazon rainfor
 
 Offers a fascinating mix of Malay, Chinese, and Indian cultures. Known for its lush rainforests, beautiful beaches (especially on the west coast), and incredible food. The west coast islands like Langkawi and Penang are generally dry and sunny.
 
+*   **Flights (to Kuala Lumpur):**
+    *   **Airlines:** Turkish Airlines / KLM / Etihad
+    *   **Price:** ~700 - 850 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Kuala Lumpur (KUL) is the main entry point.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Generally safe, but be cautious of petty crime like bag-snatching. There is a high risk of kidnapping in the coastal areas of Eastern Sabah, which should be avoided.
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 24-35°C (75-95°F). Hot and humid.
+    *   **Rainfall:** It's the dry season for the west coast (e.g., Langkawi, Penang). It is the peak of the rainy season for the east coast (e.g., Tioman, Perhentian Islands).
+    *   **Sea Swimming:** Excellent on the west coast. The sea is very warm (27-30°C / 81-86°F). Not recommended on the east coast due to rough seas.
+    *   **Note:** Stick to the west coast of Malaysia during this period for the best weather.
+
 ---
 
 ### 27. Jamaica
 
 The heart of reggae music and laid-back Rastafarian culture. Offers beautiful beaches, lush green mountains, and a vibrant atmosphere. This period is part of the island's dry season, with plenty of sunshine and warm temperatures.
+
+*   **Flights (to Montego Bay or Kingston):**
+    *   **Airlines:** Ryanair / jetBlue / Wizz Air
+    *   **Price:** ~800 - 1000 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Montego Bay (MBJ) is the main tourist airport.
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** A high degree of caution is required. Jamaica has a high rate of violent crime. Several governments have active travel advisories against visiting due to crime and recent hurricane damage. Staying within reputable resorts is advised.
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 21-31°C (70-88°F). Warm and sunny.
+    *   **Rainfall:** This is the dry season, with February being one of the driest months of the year.
+    *   **Sea Swimming:** Excellent. The sea is very warm and pleasant for swimming (around 27°C / 81°F).
 
 ---
 
