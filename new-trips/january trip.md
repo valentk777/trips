@@ -599,11 +599,41 @@ The heart of reggae music and laid-back Rastafarian culture. Offers beautiful be
 
 One of the hottest and driest destinations you can visit at this time. It's a small West African country offering a unique beach holiday experience combined with incredible birdwatching and wildlife along the Gambia River.
 
+*   **Flights (to Banjul):**
+    *   **Airlines:** Brussels Airlines / Vueling / TAP Air Portugal
+    *   **Price:** ~550 - 700 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Banjul (BJL) is the main airport.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Exercise a high degree of caution. Petty crime is common, especially in tourist areas. Be aware of "bumsters" (unofficial guides). Avoid the southern border area with the Casamance region of Senegal.
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 15-34°C (59-93°F). Very hot and dry days with cool evenings.
+    *   **Rainfall:** Dry season. Expect virtually no rain and plenty of sunshine.
+    *   **Sea Swimming:** Pleasant. The sea temperature is a comfortable 22-28°C (72-82°F).
+
 ---
 
 ### 29. Panama
 
 A country of contrasts, from the engineering marvel of the Panama Canal and the modern skyline of Panama City to pristine rainforests and the stunningly beautiful San Blas Islands. This is the heart of the dry season, offering plenty of sun.
+
+*   **Flights (to Panama City):**
+    *   **Airlines:** Turkish Airlines / Air Europa / Copa
+    *   **Price:** ~750 - 900 EUR (Round Trip)
+    *   **Stops:** 1
+    *   **Note:** Panama City (PTY) is the main airport.
+
+*   **Safety:**
+    *   **Rating:** Medium
+    *   **Notes:** Exercise increased caution. Generally safe in tourist areas, but petty crime is common. Avoid the Darién Region and Mosquito Gulf entirely.
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 24-33°C (75-92°F). Hot and sunny.
+    *   **Rainfall:** This is the dry season. Very little rain is expected, especially on the Pacific coast.
+    *   **Sea Swimming:** Ideal. The sea is very warm and pleasant for swimming (27-28°C / 81-82°F).
 
 ---
 
@@ -611,4 +641,39 @@ A country of contrasts, from the engineering marvel of the Panama Canal and the 
 
 A country with a vibrant and energetic culture, offering diverse landscapes from the stunning Caribbean coast to the coffee-growing regions of the Andes. The colonial city of Cartagena and nearby islands are particularly hot and dry at this time.
 
+*   **Flights (to Bogota or Cartagena):**
+    *   **Airlines:** Turkish Airlines / Lufthansa / Air France
+    *   **Price:** ~800 - 1000 EUR (Round Trip)
+    *   **Stops:** 1-2
+    *   **Note:** Cartagena (CTG) is best for a Caribbean beach trip.
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** Reconsider travel. Several governments advise against travel to many regions due to high risks of crime, terrorism, and kidnapping. Stick to major tourist areas in cities like Cartagena and Bogota.
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 28-32°C (82-90°F) on the Caribbean coast. Much cooler in the mountains (e.g., Bogota).
+    *   **Rainfall:** This is the dry season for the popular Caribbean coast and Andean regions. It is the rainy season in the Amazon.
+    *   **Sea Swimming:** Excellent on the Caribbean coast. The sea is very warm and pleasant (27-30°C / 81-86°F).
+    *   **Note:** For a hot beach trip, the Caribbean coast is ideal.
+
 ---
+
+### 31. Nicaragua
+
+Known as the "land of lakes and volcanoes," Nicaragua offers stunning landscapes, colonial cities like Granada, and great surfing beaches on the Pacific coast. It's one of the most affordable destinations in Central America.
+
+*   **Flights (to Managua):**
+    *   **Airlines:** Avianca / Turkish Airlines / KLM
+    *   **Price:** ~850 - 1100 EUR (Round Trip)
+    *   **Stops:** 1-2
+    *   **Note:** Managua (MGA) is the main airport. Flights often have 2 stops.
+
+*   **Safety:**
+    *   **Rating:** Unsafe
+    *   **Notes:** Reconsider travel. Several governments advise a high degree of caution due to crime and an unpredictable political situation, including the risk of arbitrary detention.
+
+*   **Weather (Jan-Feb):**
+    *   **Temperature:** 22-34°C (72-93°F). Hot and sunny, especially on the Pacific coast.
+    *   **Rainfall:** This is the dry season for the Pacific side of the country, with very little rain.
+    *   **Sea Swimming:** Excellent. The Pacific ocean is very warm and pleasant for swimming (27-28°C / 81-82°F).
