@@ -682,55 +682,22 @@ Known as the "land of lakes and volcanoes," Nicaragua offers stunning landscapes
 
 ### 32. Peru
 
-A country of incredible historical depth, diverse landscapes, and vibrant culture, offering ancient ruins, majestic mountains, and lush rainforests. It's a destination for adventurous travelers seeking cultural immersion and breathtaking natural beauty.
-
-*   **Pros:**
-    *   **Rich History & Culture:** Home to Machu Picchu, Cusco, and numerous other Inca and pre-Inca sites.
-    *   **Diverse Landscapes:** From the Pacific coast to the Andes mountains and the Amazon rainforest.
-    *   **Unique Experiences:** Trekking, exploring ancient ruins, wildlife spotting in the Amazon.
-    *   **Excellent Food:** Peruvian cuisine is world-renowned.
-
-*   **Cons:**
-    *   **January is Rainy Season in the Andes:** This can impact trekking conditions and visibility at sites like Machu Picchu.
-    *   **Altitude Sickness:** A significant concern in highland areas.
-    *   **Long Travel Time:** A long-haul flight with at least one stop.
-    *   **Safety Concerns:** Requires vigilance, especially in cities.
+A country of incredible historical depth, diverse landscapes, and vibrant culture, offering ancient ruins, majestic mountains, and lush rainforests. It's a destination for adventurous travelers seeking cultural immersion and breathtaking natural beauty, though January is the wet season in the Andes.
 
 *   **Flights:**
-    *   **Note:** Flights to Peru (typically Lima, LIM) will likely exceed the 1000 EUR budget, especially for January. Expect 1-2 stops.
+    *   **Note:** Flights to Peru (typically Lima, LIM) will likely exceed the 1000 EUR budget, especially for January. Expect 1-2 stops. Internal flights are recommended for covering long distances quickly (e.g., Lima to Cusco).
 
 *   **Safety:**
     *   **Rating:** Medium (requires increased caution)
-    *   **Notes:** Exercise increased caution, especially in larger cities like Lima and Cusco.
-        *   **Petty Crime:** Pickpocketing and bag snatching are common in crowded tourist areas, markets, and bus stations. Keep valuables out of sight.
-        *   **Taxis:** Use official, reputable taxi services (e.g., airport taxis, app-based services, or those arranged by your hotel). Avoid unmarked street taxis.
-        *   **Nighttime:** Avoid walking alone at night in unfamiliar or isolated areas.
-        *   **Protests:** Political protests can occur and may disrupt travel or turn violent. Monitor local news and avoid protest areas.
-        *   **Scams:** Be aware of common tourist scams.
+    *   **Notes:** Exercise increased caution, especially in larger cities like Lima and Cusco. Petty crime (pickpocketing, bag snatching) is common in crowded tourist areas. Use official taxi services. Avoid walking alone at night. Be aware of political protests and common tourist scams.
 
 *   **Weather (Jan-Feb):**
     *   **Andes (Cusco, Machu Picchu):** **(Wet Season)**
-        *   **Temperature:** Mild days, cool nights.
-        *   **Conditions:** January is the height of the rainy season. Expect daily, often heavy, rainfall. Trekking trails can be muddy and slippery. Visibility at archaeological sites may be reduced by clouds or fog.
+        *   **Temperature:** Mild days (18-22°C / 64-72°F), cool nights (7-12°C / 45-54°F).
+        *   **Conditions:** January is the height of the rainy season. Expect daily, often heavy, rainfall. Trekking trails can be muddy and slippery, and visibility at archaeological sites may be reduced. Altitude acclimatization is crucial.
     *   **Coastal Region (Lima):** **(Summer)**
-        *   **Temperature:** Warmer than winter, but generally mild.
-        *   **Conditions:** Subtropical desert climate. High humidity, but very scarce rainfall. Often cloudy or misty.
+        *   **Temperature:** Warm to hot (22-28°C / 72-82°F).
+        *   **Conditions:** Sunny with high humidity. Sea water is generally cool due to the Humboldt Current, not ideal for warm swimming.
     *   **Amazon Rainforest:** **(Hot & Rainy)**
-        *   **Temperature:** Hot and humid.
-        *   **Conditions:** Rainy season. Expect frequent and heavy downpours.
-
-*   **Activities & Experiences:**
-    *   **Historical & Cultural:**
-        *   Explore **Machu Picchu** (be prepared for rain and potential trail closures if trekking).
-        *   Wander through the historic city of **Cusco** and the **Sacred Valley**.
-        *   Visit the **Nazca Lines** (best viewed from a flight).
-    *   **Nature & Views:**
-        *   Experience the **Amazon Rainforest** (though January is very wet).
-        *   Explore the **Colca Canyon** (if time permits and weather allows).
-    *   **Food:**
-        *   Indulge in Peruvian cuisine, especially in Lima.
-
-*   **Driving & Logistics:**
-    *   **Public Transport:** Long-distance buses are a common way to travel between cities, but choose reputable companies.
-    *   **Internal Flights:** Recommended for covering long distances quickly (e.g., Lima to Cusco).
-    *   **Altitude Acclimatization:** Crucial for Andean regions. Spend a few days in Cusco before attempting strenuous activities.
+        *   **Temperature:** Hot and humid (28-33°C / 82-91°F).
+        *   **Conditions:** Rainy season. Expect heavy rainfall and high humidity.
